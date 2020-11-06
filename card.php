@@ -17,31 +17,28 @@
         <div class="row">
         <div class="col">
         <div class="card">
-            <img class="card-img-top" src="img/staffs/staff5.jpg" >
+            <img class="card-img-top" src="staff7.jpg" >
             <div class="card-body">
-            <h4 class="card-title"></h4>
-            <p class="card-text">Lorem ipsum dolor sit amet consectetur !<p>
-            <a href="#" class="btn btn-primary">Read more</a>
+            <h4 class="card-title"Phu</h4>
+            <p class="card-text">หล่อ<p>
         </div>
         </div>
         </div>
         <div class="col">
             <div class="card">
-                <img class="card-img-top" src="img/staffs/staff2.jpg" >
+                <img class="card-img-top" src="staff8.jpg" >
                 <div class="card-body">
-                <h4 class="card-title">Our Staff</h4>
-                <p class="card-text">Lorem ipsum dolor sit amet consectetur !<p>
-                <a href="#" class="btn btn-primary">Read more</a>
+                <h4 class="card-title">Tonkla</h4>
+                <p class="card-text">หล่อมาก<p>
             </div>
             </div>
             </div>
         <div class="col">
         <div class="card">
-            <img class="card-img-top" src="img/staffs/staff4.jpg" >
+            <img class="card-img-top" src="staff9.jpg" >
             <div class="card-body">
-            <h4 class="card-title">Our Staff</h4>
-            <p class="card-text">Lorem ipsum dolor sit amet consectetur !<p>
-            <a href="#" class="btn btn-primary">Read more</a>
+            <h4 class="card-title"Ruj</h4>
+            <p class="card-text">หล่อที่สุด<p>
         </div>
         </div>
         </div>
