@@ -19,7 +19,7 @@
         <div class="card">
             <img class="card-img-top" src="staff7.jpg" >
             <div class="card-body">
-            <h4 class="card-title"Phu</h4>
+            <h4 class="card-title">Phu</h4>
             <p class="card-text">หล่อ<p>
         </div>
         </div>
@@ -37,7 +37,7 @@
         <div class="card">
             <img class="card-img-top" src="staff9.jpg" >
             <div class="card-body">
-            <h4 class="card-title"Ruj</h4>
+            <h4 class="card-title">Ruj</h4>
             <p class="card-text">หล่อที่สุด<p>
         </div>
         </div>
